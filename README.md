@@ -21,7 +21,7 @@ En esta version solo podras descargar un archivo atravez de su link de YT, podra
 
 # ☘ - Imagenes
 
-![alt text]()
+![alt text](https://cdn.discordapp.com/attachments/753459740335538272/858583732783939604/unknown.png)
 
 # 🛎 - ¿Fallas, Sugerencias o Ayuda?
 
