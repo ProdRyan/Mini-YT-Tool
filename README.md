@@ -10,6 +10,8 @@ git clone https://github.com/xNetting/Mini-YT-Tool
 
 cd Mini-YT-Tool
 
+pip install pytube
+
 python3 YT-Tool.py
 
 ```
