@@ -8,9 +8,9 @@ Esta herramienta te dara ejemplos de como crear un programa para descargar video
 
 git clone https://github.com/xNetting/Mini-YT-Tool
 
-cd Mini-YT-Tool
-
 pip install pytube
+
+cd Mini-YT-Tool
 
 python3 YT-Tool.py
 
